@@ -1,0 +1,18 @@
+c:\users\dreamer\documents\visual studio 2015\Projects\XAML-loader\XAML-loader\bin\Debug\XAML-loader.exe.config
+c:\users\dreamer\documents\visual studio 2015\Projects\XAML-loader\XAML-loader\bin\Debug\XAML-loader.exe
+c:\users\dreamer\documents\visual studio 2015\Projects\XAML-loader\XAML-loader\bin\Debug\XAML-loader.pdb
+c:\users\dreamer\documents\visual studio 2015\Projects\XAML-loader\XAML-loader\obj\Debug\XAML-loader.csprojResolveAssemblyReference.cache
+c:\users\dreamer\documents\visual studio 2015\Projects\XAML-loader\XAML-loader\obj\Debug\Main.g.cs
+c:\users\dreamer\documents\visual studio 2015\Projects\XAML-loader\XAML-loader\obj\Debug\App.g.cs
+c:\users\dreamer\documents\visual studio 2015\Projects\XAML-loader\XAML-loader\obj\Debug\XAML-loader_MarkupCompile.cache
+c:\users\dreamer\documents\visual studio 2015\Projects\XAML-loader\XAML-loader\obj\Debug\XAML-loader_MarkupCompile.lref
+c:\users\dreamer\documents\visual studio 2015\Projects\XAML-loader\XAML-loader\obj\Debug\Main.baml
+c:\users\dreamer\documents\visual studio 2015\Projects\XAML-loader\XAML-loader\obj\Debug\TestWindow.baml
+c:\users\dreamer\documents\visual studio 2015\Projects\XAML-loader\XAML-loader\obj\Debug\XAML-loader.g.resources
+c:\users\dreamer\documents\visual studio 2015\Projects\XAML-loader\XAML-loader\obj\Debug\XAML_loader.Properties.Resources.resources
+c:\users\dreamer\documents\visual studio 2015\Projects\XAML-loader\XAML-loader\obj\Debug\XAML-loader.csproj.GenerateResource.Cache
+c:\users\dreamer\documents\visual studio 2015\Projects\XAML-loader\XAML-loader\obj\Debug\XAML-loader.exe
+c:\users\dreamer\documents\visual studio 2015\Projects\XAML-loader\XAML-loader\obj\Debug\XAML-loader.pdb
+C:\Users\Dreamer\Source\Repos\XAML-loader\XAML-loader\bin\Debug\XAML-loader.exe.config
+C:\Users\Dreamer\Source\Repos\XAML-loader\XAML-loader\obj\Debug\XAML-loader.exe
+C:\Users\Dreamer\Source\Repos\XAML-loader\XAML-loader\obj\Debug\XAML-loader.pdb
